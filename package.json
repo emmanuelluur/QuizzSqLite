@@ -14,7 +14,7 @@
     "QUIT"
   ],
   "author": "Emmanuel Lucio Urbina",
-  "license": "Unlicense",
+  "license": "MIT",
   "dependencies": {
     "underscore": "^1.8.3",
     "fs-extra": "^6.0.1",
